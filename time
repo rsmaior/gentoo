@@ -1,0 +1,272 @@
+# eix-installed -a | xargs versionsort -n | xargs qlop -tH
+
+at-spi2-atk: 25 seconds for 1 merges
+at-spi2-core: 38 seconds for 1 merges
+eclean-kernel: 12 seconds for 1 merges
+bzip2: 2 minutes, 36 seconds for 1 merges
+cpio: 1 minute, 54 seconds for 1 merges
+libarchive: 1 minute, 27 seconds for 1 merges
+rpm2targz: 13 seconds for 1 merges
+zip: 21 seconds for 1 merges
+gnupg: 1 minute, 55 seconds for 1 merges
+pinentry: 32 seconds for 1 merges
+rhash: 17 seconds for 1 merges
+eselect-fontconfig: 6 seconds for 1 merges
+eselect-lib-bin-symlink: 17 seconds for 1 merges
+eselect-mesa: 8 seconds for 1 merges
+eselect-opengl: 1 minute, 33 seconds for 1 merges
+eselect-pinentry: 16 seconds for 1 merges
+eselect-qtgraphicssystem: 7 seconds for 1 merges
+eix: 3 minutes, 41 seconds for 1 merges
+gentoolkit: 23 seconds for 1 merges
+layman: 16 seconds for 1 merges
+portage-utils: 17 seconds for 1 merges
+push: 14 seconds for 1 merges
+quoter: 15 seconds for 1 merges
+docbook-xml-dtd: 10 seconds for 4 merges
+docbook-xml-dtd: 10 seconds for 4 merges
+docbook-xml-dtd: 10 seconds for 4 merges
+docbook-xml-dtd: 10 seconds for 4 merges
+ghostscript-gpl: 6 minutes, 17 seconds for 1 merges
+libpaper: 26 seconds for 1 merges
+mupdf: 1 minute, 6 seconds for 1 merges
+po4a: 19 seconds for 1 merges
+poppler: 2 minutes, 7 seconds for 1 merges
+poppler-data: 2 minutes, 43 seconds for 1 merges
+qpdf: 1 minute, 51 seconds for 1 merges
+xmlto: 13 seconds for 1 merges
+sqlite: 1 minute, 26 seconds for 1 merges
+nasm: 28 seconds for 1 merges
+perl: 4 minutes, 52 seconds for 1 merges
+python: 3 minutes, 51 seconds for 1 merges
+python: 3 minutes, 51 seconds for 1 merges
+spidermonkey: 2 minutes, 40 seconds for 1 merges
+atk: 36 seconds for 1 merges
+boehm-gc: 30 seconds for 1 merges
+glib: 3 minutes, 38 seconds for 1 merges
+gobject-introspection: 1 minute, 9 seconds for 1 merges
+gobject-introspection-common: 1 minute, 15 seconds for 1 merges
+klibc: 1 minute, 7 seconds for 3 merges
+libassuan: 40 seconds for 1 merges
+libatomic_ops: 32 seconds for 1 merges
+libbsd: 25 seconds for 1 merges
+libcroco: 33 seconds for 1 merges
+libksba: 43 seconds for 1 merges
+libpthread-stubs: 14 seconds for 1 merges
+libtasn1: 55 seconds for 1 merges
+libunistring: 2 minutes, 50 seconds for 1 merges
+libusb: 21 seconds for 1 merges
+libusb-compat: 19 seconds for 1 merges
+libxml2: 2 minutes, 12 seconds for 1 merges
+lzo: 2 minutes, 46 seconds for 1 merges
+nettle: 48 seconds for 1 merges
+npth: 34 seconds for 1 merges
+nspr: 32 seconds for 1 merges
+openssl: 7 minutes, 15 seconds for 1 merges
+vala-common: 14 seconds for 1 merges
+Authen-SASL: 21 seconds for 1 merges
+Digest-HMAC: 15 seconds for 1 merges
+Error: 14 seconds for 1 merges
+File-BaseDir: 9 seconds for 1 merges
+File-DesktopEntry: 10 seconds for 1 merges
+File-MimeInfo: 12 seconds for 1 merges
+IO-Socket-SSL: 13 seconds for 1 merges
+libintl-perl: 15 seconds for 1 merges
+Locale-gettext: 12 seconds for 1 merges
+Module-Build: 16 seconds for 1 merges
+Net-SMTP-SSL: 13 seconds for 1 merges
+Net-SSLeay: 29 seconds for 1 merges
+SGMLSpm: 13 seconds for 1 merges
+TermReadKey: 13 seconds for 1 merges
+Text-CharWidth: 16 seconds for 1 merges
+Text-Unidecode: 20 seconds for 1 merges
+Text-WrapI18N: 11 seconds for 1 merges
+Unicode-EastAsianWidth: 15 seconds for 1 merges
+XML-Parser: 16 seconds for 1 merges
+asn1crypto: 18 seconds for 1 merges
+cffi: 25 seconds for 1 merges
+chardet: 17 seconds for 1 merges
+cryptography: 1 minute, 49 seconds for 1 merges
+enum34: 17 seconds for 1 merges
+idna: 25 seconds for 1 merges
+ipaddress: 16 seconds for 1 merges
+ndg-httpsclient: 17 seconds for 1 merges
+ply: 18 seconds for 1 merges
+pyasn1: 19 seconds for 1 merges
+pycparser: 20 seconds for 1 merges
+pymountboot: 14 seconds for 1 merges
+pyopenssl: 14 seconds for 1 merges
+pyparsing: 14 seconds for 1 merges
+PySocks: 16 seconds for 1 merges
+requests: 16 seconds for 1 merges
+ssl-fetch: 14 seconds for 1 merges
+urllib3: 17 seconds for 1 merges
+qt3support: 5 minutes, 23 seconds for 1 merges
+qtchooser: 2 minutes, 31 seconds for 1 merges
+qtcore: 8 minutes, 37 seconds for 1 merges
+qtgui: 12 minutes, 46 seconds for 1 merges
+qtscript: 4 minutes, 24 seconds for 1 merges
+qtsql: 1 minute, 51 seconds for 1 merges
+qttranslations: 36 seconds for 1 merges
+cmake: 12 minutes, 49 seconds for 1 merges
+desktop-file-utils: 14 seconds for 1 merges
+gdbus-codegen: 15 seconds for 1 merges
+gtk-update-icon-cache: 24 seconds for 1 merges
+ninja: 54 seconds for 2 merges
+pkgconfig: 25 seconds for 1 merges
+re2c: 55 seconds for 1 merges
+git: 2 minutes, 5 seconds for 1 merges
+dconf: 26 seconds for 1 merges
+gsettings-desktop-schemas: 22 seconds for 1 merges
+librsvg: 49 seconds for 1 merges
+polkit-gnome: 23 seconds for 1 merges
+encodings: 16 seconds for 1 merges
+font-util: 17 seconds for 1 merges
+liberation-fonts: 10 seconds for 1 merges
+urw-fonts: 11 seconds for 1 merges
+graphite2: 24 seconds for 1 merges
+fontconfig: 1 minute, 2 seconds for 1 merges
+freetype: 57 seconds for 2 merges
+glfw: 23 seconds for 1 merges
+harfbuzz: 1 minute, 1 second for 1 merges
+jbig2dec: 19 seconds for 1 merges
+lcms: 38 seconds for 1 merges
+libepoxy: 50 seconds for 1 merges
+libjpeg-turbo: 47 seconds for 1 merges
+libmng: 28 seconds for 1 merges
+libpng: 2 minutes, 37 seconds for 1 merges
+mesa: 21 minutes, 22 seconds for 2 merges
+openjpeg: 39 seconds for 1 merges
+tiff: 1 minute, 4 seconds for 1 merges
+libidn: 1 minute, 3 seconds for 1 merges
+libidn2: 1 minute, 2 seconds for 1 merges
+gnutls: 3 minutes, 38 seconds for 1 merges
+curl: 2 minutes, 8 seconds for 1 merges
+openssh: 1 minute, 55 seconds for 2 merges
+wget: 1 minute, 44 seconds for 1 merges
+openldap: 3 minutes, 2 seconds for 1 merges
+cups: 1 minute, 57 seconds for 1 merges
+cups-filters: 1 minute, 2 seconds for 1 merges
+File-Path: 14 seconds for 1 merges
+File-Temp: 13 seconds for 1 merges
+baselayout: 2 minutes, 28 seconds for 1 merges
+coreutils: 2 minutes, 36 seconds for 1 merges
+dbus: 1 minute, 25 seconds for 1 merges
+file: 2 minutes, 38 seconds for 1 merges
+gawk: 1 minute, 51 seconds for 1 merges
+groff: 1 minute, 32 seconds for 1 merges
+help2man: 21 seconds for 1 merges
+net-tools: 1 minute, 17 seconds for 1 merges
+openrc: 2 minutes, 0 seconds for 1 merges
+portage: 38 seconds for 1 merges
+sandbox: 2 minutes, 18 seconds for 1 merges
+texinfo: 1 minute, 38 seconds for 1 merges
+util-linux: 2 minutes, 18 seconds for 1 merges
+consolekit: 1 minute, 19 seconds for 1 merges
+pambase: 11 seconds for 1 merges
+polkit: 1 minute, 12 seconds for 1 merges
+autoconf: 11 seconds for 1 merges
+autoconf: 11 seconds for 1 merges
+bc: 21 seconds for 1 merges
+flex: 40 seconds for 1 merges
+gcc: 1 hour, 40 minutes, 5 seconds for 1 merges
+gcc-config: 1 minute, 16 seconds for 1 merges
+llvm: 52 minutes, 9 seconds for 1 merges
+e2fsprogs: 1 minute, 49 seconds for 1 merges
+eudev: 1 minute, 7 seconds for 1 merges
+genkernel: 32 seconds for 1 merges
+gentoo-sources: 4 minutes, 9 seconds for 1 merges
+linux-firmware: 3 minutes, 37 seconds for 1 merges
+binutils-libs: 2 minutes, 10 seconds for 1 merges
+e2fsprogs-libs: 45 seconds for 1 merges
+gpm: 36 seconds for 1 merges
+ncurses: 3 minutes, 4 seconds for 1 merges
+zlib: 57 seconds for 1 merges
+psmisc: 12 minutes, 58 seconds for 1 merges
+jpeg: 8 seconds for 1 merges
+libudev: 8 seconds for 1 merges
+libusb: 9 seconds for 2 merges
+libusb: 9 seconds for 2 merges
+opengl: 9 seconds for 1 merges
+perl-Digest-MD5: 10 seconds for 1 merges
+perl-Digest-SHA: 9 seconds for 1 merges
+perl-ExtUtils-MakeMaker: 8 seconds for 1 merges
+perl-File-Path: 8 seconds for 1 merges
+perl-File-Spec: 7 seconds for 1 merges
+perl-File-Temp: 18 seconds for 1 merges
+perl-JSON-PP: 8 seconds for 1 merges
+perl-libnet: 17 seconds for 1 merges
+perl-MIME-Base64: 19 seconds for 1 merges
+perl-Parse-CPAN-Meta: 7 seconds for 1 merges
+perl-Scalar-List-Utils: 11 seconds for 1 merges
+perl-Test-Harness: 8 seconds for 1 merges
+python-ipaddress: 10 seconds for 1 merges
+ttf-fonts: 6 seconds for 1 merges
+w3m: 7 seconds for 1 merges
+w3m: 47 seconds for 1 merges
+mkfontdir: 20 seconds for 1 merges
+mkfontscale: 18 seconds for 1 merges
+xauth: 1 minute, 28 seconds for 1 merges
+xprop: 19 seconds for 1 merges
+xset: 19 seconds for 1 merges
+cairo: 2 minutes, 21 seconds for 1 merges
+gdk-pixbuf: 1 minute, 10 seconds for 1 merges
+gtk+: 8 minutes, 4 seconds for 2 merges
+gtk+: 8 minutes, 4 seconds for 2 merges
+libdrm: 38 seconds for 1 merges
+libfontenc: 23 seconds for 1 merges
+libICE: 25 seconds for 1 merges
+libpciaccess: 25 seconds for 1 merges
+libSM: 24 seconds for 1 merges
+libX11: 2 minutes, 28 seconds for 1 merges
+libXau: 22 seconds for 1 merges
+libXaw: 32 seconds for 1 merges
+libxcb: 1 minute, 16 seconds for 1 merges
+libXcomposite: 23 seconds for 1 merges
+libXcursor: 23 seconds for 1 merges
+libXdamage: 24 seconds for 1 merges
+libXdmcp: 23 seconds for 1 merges
+libXext: 25 seconds for 1 merges
+libXfixes: 22 seconds for 1 merges
+libXft: 26 seconds for 1 merges
+libXi: 31 seconds for 1 merges
+libXinerama: 23 seconds for 1 merges
+libxkbcommon: 35 seconds for 1 merges
+libXmu: 27 seconds for 1 merges
+libXpm: 27 seconds for 1 merges
+libXrandr: 23 seconds for 1 merges
+libXrender: 23 seconds for 1 merges
+libxshmfence: 23 seconds for 1 merges
+libXt: 38 seconds for 1 merges
+libXtst: 23 seconds for 1 merges
+libXv: 23 seconds for 1 merges
+libXxf86vm: 23 seconds for 1 merges
+pango: 58 seconds for 1 merges
+pixman: 49 seconds for 1 merges
+xtrans: 17 seconds for 1 merges
+util-macros: 11 seconds for 1 merges
+xdg-utils: 19 seconds for 1 merges
+compositeproto: 15 seconds for 1 merges
+damageproto: 16 seconds for 1 merges
+dri2proto: 19 seconds for 1 merges
+dri3proto: 18 seconds for 1 merges
+fixesproto: 16 seconds for 1 merges
+glproto: 19 seconds for 1 merges
+inputproto: 18 seconds for 1 merges
+kbproto: 18 seconds for 1 merges
+presentproto: 17 seconds for 1 merges
+randrproto: 18 seconds for 1 merges
+recordproto: 19 seconds for 1 merges
+renderproto: 15 seconds for 1 merges
+videoproto: 17 seconds for 1 merges
+xcb-proto: 21 seconds for 1 merges
+xextproto: 18 seconds for 1 merges
+xf86bigfontproto: 12 seconds for 1 merges
+xf86driproto: 15 seconds for 1 merges
+xf86vidmodeproto: 15 seconds for 1 merges
+xineramaproto: 15 seconds for 1 merges
+xproto: 19 seconds for 1 merges
+adwaita-icon-theme: 3 minutes, 22 seconds for 1 merges
+gnome-themes-standard: 2 minutes, 57 seconds for 1 merges
+gtk-engines-adwaita: 23 seconds for 1 merges
+hicolor-icon-theme: 12 seconds for 1 merges
