@@ -270,3 +270,9 @@ adwaita-icon-theme: 3 minutes, 22 seconds for 1 merges
 gnome-themes-standard: 2 minutes, 57 seconds for 1 merges
 gtk-engines-adwaita: 23 seconds for 1 merges
 hicolor-icon-theme: 12 seconds for 1 merges
+
+# make menuconfig
+# time make -j5
+real	8m15.003s
+user	25m29.706s
+sys	1m39.329s
