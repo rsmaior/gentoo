@@ -1,13 +1,3 @@
 one liner:
-list -I | xargs qlop -t | cut -f2 -d" " | cut  -f1 -d" " | awk '{s+=$1} END {print "secs="s}' > /tmp/btime && eval $(cat /tmp/btime) && printf '%dh:%dm:%ds\n' $(($secs/3600)) $(($secs%3600/60)) $(($secs%60)) && rm /tmp/btime
-
-
-
-Alternativamente:
-
-
-$ qlist -I | xargs qlop -t | cut -f2 -d" " | cut  -f1 -d" " | awk '{s+=$1} END {print "secs="s}'
-$ secs=VALOR (é apenas print do comando acima)
-$ secs=VALOR (declaração - vulgo copiar e colar)
-$ printf '%dh:%dm:%ds\n' $(($secs/3600)) $(($secs%3600/60)) $(($secs%60))
+qlist -I | xargs qlop -t | awk '{secs += $2} END { printf("%dh:%dm:%ds\n", secs / 3600, (secs % 3600) / 60, secs % 60); }'
  
